@@ -13,8 +13,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 * 📱 I'm the creator and mainteiner of [TremdGol Free](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
 * 📚 I'm currently learning GraphQL and Redux.
-
-[more about me](http://skills.jvictor.com.br)
+<br><a href="http://skills.jvictor.com.br" target="_blank">more about me</a>
 
 ### Tools
 
