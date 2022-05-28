@@ -1,11 +1,12 @@
 <!-- usefull links: 
+https://github.com/Ileriayo/markdown-badges
 https://github.com/rafaballerini/PerfilGithub
 https://devicon.dev/ 
 https://github.com/anuraghazra/github-readme-stats
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 -->
-## Hi, I'm João Victor, software developer and content creator for YouTube.
+## Hi, I'm João Victor, software developer and YouTube creator.
 
 * 🗣 You can call me Jon (he/him)
 * 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step video tutorials. 
@@ -18,20 +19,23 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 
 ## Tools
 
-#### Everyday use and first preference | Can use effortless | Advanced user:
+#### Advanced user
+<!--#### Everyday use and first preference | Can use effortless:-->
 <div>
   <img height="37" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   <img height="37" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" target="_blank"> 
-Pentaho Data Integration | 
-Google Apps Script 
+  <img height="37" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img height="37" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img height="37" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000" target="_blank">
+  <img height="37" src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img height="37" src="https://img.shields.io/badge/pentaho-20232A.svg?style=for-the-badge&logo=pentahopdi&logoColor=61DAFB" target="_blank">
+  <img height="37" src="https://img.shields.io/badge/google_apps_script-20232A.svg?style=for-the-badge&logo=google%23appsscript&logoColor=61DAFB" target="_blank">
 </div>
 
 #### Using at intermediate level:
 <div>
   <img height="25" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> 
   <img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-  <img height="25" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-  <img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
   <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"> 
   <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
   <img height="25" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" target="_blank">
@@ -40,25 +44,137 @@ Google Apps Script
   <img height="25" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank">
   <img height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank">
   <img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
-  Expo | SQL
+  <img height="25" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql&logoColor=#fff" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" target="_blank">
 </div>
+<br> <br>
 
 
-#### Learning | Beginner level:
+#### Infrastructure and backend related:
 <div>
-  <img height="23" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank"> 
-GraphQL 
+  <img height="25" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"> 
+  <img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql&logoColor=#fff" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" target="_blank">
 </div>
 
-#### Used time ago | did not used in the last 3 years | updates and studies needed
-<div>
-  <img height="23" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"> 
-  <img height="23" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-  <img height="23" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
-  Qlik sense 
-</div>
+
+<details> 
+  <summary><b>👇 Learning | Beginner level</b></summary>
+ 
+><div>  <img height="23" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank">   <img height="23" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" target="_blank"></div>
+</details>
+
+
+<details> 
+  <summary><b>👇 Where I study</b></summary>
+ 
+> <div>  <img height="25" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank">   <img height="25" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank">   <img height="25" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank">   <img height="25" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" target="_blank"> </div>
+</details>
+
+
+
+
+<details> 
+  <summary><b>👇 Used time ago | did not used in the last 3 years | updates and studies needed</b></summary>
+ 
+><div>  <img height="23" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">   <img height="23" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">  <img height="23" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"> </div>
+</details>
+
+#### 
+
 
 <br>
+
+
+<details> 
+<summary>👇 Used time ago | did not used in the last 3 years | updates and studies needed</summary>
+<hr>
+
+> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
+
+  > <img height="23" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank">
+
+Shields.io offers 5 styles, which are:
+|S/N| Types | Styles  |
+| :---: | :---     |  :---      |
+|1| Plastic | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic) |
+|2| Flat-square |  ![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)|
+|3| Flat  | ![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat) |
+|4| Social  |  ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)|
+|5| For-the-badge  | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge)|
+
+
+
+💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
+```
+Example.
+  
+🧷  For plastic
+https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
+
+🤏🏽  For Flat
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
+```
+
+</details>
+
+
+
+
+<details> 
+<summary>👇 How to use a different badge style</summary>
+<hr>
+
+> <strong>Note:</strong> `for-the-badge` is the style that we chose for appearance purposes. Other styles are available at [https://shields.io/#styles](https://shields.io/#styles) and can be used with the badges here. Thanks, @kingthorin for mentioning this!
+
+
+Shields.io offers 5 styles, which are:
+|S/N| Types | Styles  |
+| :---: | :---     |  :---      |
+|1| Plastic | ![Plastic](https://shields.io/badge/style-plastic-03650f?logo=appveyor&style=plastic) |
+|2| Flat-square |  ![Flat-square](https://shields.io/badge/style-flat--square-03650f?logo=appveyor&style=flat-square)|
+|3| Flat  | ![Flat](https://shields.io/badge/style-flat-03650f?logo=appveyor&style=flat) |
+|4| Social  |  ![Social](https://shields.io/badge/style-social-03650f?logo=appveyor&style=social)|
+|5| For-the-badge  | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge)|
+
+
+
+💡 To use a different style: Replace `for-the-badge` in the markdown link with any of the styles above.
+```
+Example.
+
+🧷  For plastic
+https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic
+
+🤏🏽  For Flat
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
+```
+
+</details>
+
+
 
 ## Best Projects
 
@@ -122,6 +238,7 @@ Complete soccer statistics web site.
 
 ##
 ###### *last update: may2022 | github presentation readme.md inspired by @rafaballerini's youtube video: https://www.youtube.com/watch?v=TsaLQAetPLU*
+###### badges from https://github.com/Ileriayo/markdown-badges and https://devicon.dev/ 
  
 
 <!--
