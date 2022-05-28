@@ -13,9 +13,9 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
 * 📱 I'm the creator and mainteiner of [TremdGol Free](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
+* 🎓 I have a Computer Science degree (BSc) from the Federal University of Pernambuco (Brazil - 2012)
 * 📚 I'm currently learning GraphQL and Redux.
 <br><a href="http://skills.jvictor.com.br" target="_blank">more about me</a>
-
 
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a> 
@@ -24,7 +24,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   <a href="https://vuetifyjs.com/en/"><img align="center" alt="Vuetify" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-  
+    <a href="https://developers.google.com/apps-script"><img align="center" alt="TypeScript" height="60" src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png"></a>
   <!--<a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> </a>-->
   
 </div>
@@ -80,7 +80,7 @@ Front-end   | Back-end   |
 --------- | ------ |
 <a href="https://angular.io/"><img align="center" alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>  <a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
 
-A live soccer statistics web application.
+I used Angular/TypeScript to built this live soccer statistics web site using the same source of data from TremdGol Free app. The same informations now available for desktop/mobile internet browsers.
 
 
 * [portfolio.jvictor.com.br](http://portfolio.jvictor.com.br)
