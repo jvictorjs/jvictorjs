@@ -9,11 +9,11 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 ## Hi, I'm João Victor, software developer and YouTube creator.
 
 * 🗣 You can call me Jon (he/him)
-* 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step video [tutorials](https://www.youtube.com/playlist?list=PLkESTH940G9Um3QdVFwp1YvqzumuVDEJW). 
+* 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step [tutorial videos](https://www.youtube.com/playlist?list=PLkESTH940G9Um3QdVFwp1YvqzumuVDEJW). 
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
 * 📱 I'm the creator and mainteiner of [TremdGol Free](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
-* 🎓 I have a Computer Science degree (BSc) from the Federal University of Pernambuco (Brazil - 2012)
+* 🎓 I have a Bachelor's degree in Conputer Science from the Federal University of Pernambuco (Brazil - 2012)
 * 📚 I'm currently learning GraphQL and Redux.
 <br><a href="http://skills.jvictor.com.br" target="_blank">more about me</a>
 
