@@ -8,6 +8,13 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 -->
 ## Hi, I'm João Victor, software developer and YouTube creator.
 
+
+  <a href="https://www.youtube.com/user/jvwrCIN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30em" target="_blank"></a>
+  <a href="https://twitter.com/jvictor_js" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30em"  target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ramos-6570a21b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" target="_blank"></a> 
+  <a href="https://play.google.com/store/apps/developer?id=bolanarede.net.br" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a> 
+  
 * 🗣 You can call me Jon (he/him)
 * 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step [tutorial videos](https://www.youtube.com/playlist?list=PLkESTH940G9Um3QdVFwp1YvqzumuVDEJW). 
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
@@ -32,7 +39,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 
 <details> 
   <summary>👇 ...</summary>
-  <hr>
+  
   
 >#### Other Languages, Frameworks and Libraries<div>     <img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">     <img height="25" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" target="_blank">      <img height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" target="_blank">    <img height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank">         <img height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">        <img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank">        <img height="25" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" target="_blank">        <img height="25" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" target="_blank">      
   </div>
@@ -50,9 +57,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 #### Had used in the past (5+ years ago):
 <div><img height="23" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">   <img height="23" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">  <img height="23" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"> </div>
 <hr>
- 
 </details>
-
 <!--
 <details> 
     <summary><b>👇 Where I study</b></summary>
@@ -60,8 +65,12 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   > <div>  <img height="25" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" target="_blank"> <img height="25" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"> <img height="25" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank">       </div>
 </details>
 -->
-<br>
 
+<details> 
+  <summary><h3>👇 Best Projects </h3></summary>
+  
+  (this part of README.md is not ready to publish yet, still working on it)
+  
 ## Best Projects
 
 * Tredmgol free
@@ -120,17 +129,14 @@ Complete soccer statistics web site.
 
 <!-- -  I have others soccer statistics projects released that I'm working to swith to public repositories. -->
 
+  
+  </details>
+  
 ## 
 
 <div>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorjs&layout=compact&langs_count=7&theme=dracula"/> 
- 
-  <a href="https://www.youtube.com/user/jvwrCIN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30em" target="_blank"></a>
-  <a href="https://twitter.com/jvictor_js" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30em"  target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ramos-6570a21b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" target="_blank"></a> 
-  <a href="https://play.google.com/store/apps/developer?id=bolanarede.net.br" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
-  <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a> 
-  
+
 </div>
 
 ##
