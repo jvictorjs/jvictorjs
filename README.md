@@ -67,9 +67,9 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 #### Learning:
 <div>  <img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">  <img height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank">   <img height="25" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" target="_blank"> </div>
   
-#### Had used in the past (5+ years ago):
+#### Used to know a long time ago...
 <div><img height="23" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">   <img height="23" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">  <img height="23" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"> </div>
-<hr>
+
 </details>
 <!--
 <details> 
