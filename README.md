@@ -16,7 +16,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a>
   
 * 🗣 You can call me Jon (he/him)
-* 🤖 I love Telegram chatbots and I teach people how to create them with video lessons. [My course](https://courses.jvictor.com.br) is available for free.
+* 🤖 I love Telegram chatbots and I teach people how to create them with free video lessons. See [My course's site](https://courses.jvictor.com.br).
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
 * 📱 I'm the creator and mainteiner of [TremdGol](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
