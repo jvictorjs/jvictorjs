@@ -22,7 +22,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
 * 🎓 I have a Bachelor's degree in Computer Science from the Federal University of Pernambuco (Brazil - 2012)
 * 📚 I'm currently learning GraphQL and Redux.
-<br><a href="http://skills.jvictor.com.br" target="_blank">more about me</a>
+<br><a href="http://jvictor.com.br" target="_blank">more about me</a>
 
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>   
@@ -78,7 +78,6 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   > <div>  <img height="25" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" target="_blank"> <img height="25" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"> <img height="25" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank">       </div>
 </details>
 -->
-
 
   
 ## 
