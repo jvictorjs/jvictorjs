@@ -35,7 +35,20 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   <a href="https://reactnative.dev/"><img align="center" alt="React Native" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
   
 </div>
-<br>
+
+<details> 
+  <summary><h3>Online projects</h3></summary>
+  
+  - [My Course Platform](https://course.jvictor.com.br) (React) <a href="https://github.com/jvictorjs/courses-platform"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [TremdGol App](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free) (React Native) <a href="https://github.com/jvictorjs/tremdgol-app"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [TremdGol.com](https://tremdgol.com) (Vue) <a href="https://github.com/jvictorjs/tremdgol-vue"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [jvictor.com.br](https://jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/telegram-clone"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [Portfolio](https://portfolio.jvictor.com.br) (Angular) <a href="https://github.com/jvictorjs/portfolio"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [projects.jvictor.com.br](https://projects.jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/skills-word-cloud"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [skills.jvictor.com.br](https://skills.jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/skills-word-cloud"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [Bolanarede.net.br](https://bolanarede.net.br) (Angular) <a href="https://github.com/jvictorjs/bolasite"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  
+</details> 
 
 <details> 
   <summary>👇 ...</summary>
@@ -66,71 +79,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 </details>
 -->
 
-<details> 
-  <summary><h3>👇 Best Projects </h3></summary>
-  
-  (this part of README.md is not ready to publish yet, still working on it)
-  
-## Best Projects
 
-* Tredmgol free
-###### Released: 2021
-Front-end   | Back-end   | 
---------- | ------ |
-<a href="https://reactnative.dev/"><img align="center" alt="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
-          
-          
-A live soccer statistics android app. Available on <a href="https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free" target="_blank"><img height="18" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
-
-
-* [bolanarede.net.br](http://bolanarede.net.br)
-###### Released: 2021 | [Github repository](https://github.com/jvictorjs/bolasite)
-Front-end   | Back-end   | 
---------- | ------ |
-<a href="https://angular.io/"><img align="center" alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>  <a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
-
-I used Angular/TypeScript to built this live soccer statistics web site using the same source of data from TremdGol Free app. The same informations now available for desktop/mobile internet browsers.
-
-
-* [portfolio.jvictor.com.br](http://portfolio.jvictor.com.br)
-###### Released: 2021 | [Github repository](https://github.com/jvictorjs/portfolio)
-Front-end   | Back-end   | 
---------- | ------ |
-<a href="https://angular.io/"><img align="center" alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>  <a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
-
-My fisrt portfolio web site.
-
-
-* [skills.jvictor.com.br](https://skills.jvictor.com.br)
-###### Released: 2022 | [Github repository](https://github.com/jvictorjs/skills)
-Front-end   | Back-end   | 
---------- | ------ |
-<img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> <img  align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
-
-A simple web page to tell more about myself, tools and projects.
-
-
-* [quotes.jvictor.com.br](https://quotes.jvictor.com.br)
-###### Released: coming soon | [Github repository](https://github.com/jvictorjs/quotes)
-Front-end   | Back-end   | 
---------- | ------ |
-<img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> <img  align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
-
-A telegram bot integrated with web page that provide random quotes from a cloud database.
-
-* Tremdgol web
-###### comming soon | [Github repository](https://github.com/jvictorjs/tremdgol)
-Front-end   | Back-end   | 
---------- | ------ |
-<img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> <img  align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
-
-Complete soccer statistics web site.
-
-
-<!-- -  I have others soccer statistics projects released that I'm working to swith to public repositories. -->
-
-  
-  </details>
   
 ## 
 
@@ -197,3 +146,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
