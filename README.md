@@ -37,9 +37,9 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 </div>
 
 <details> 
-  <summary><h3>Online projects</h3></summary>
+  <summary><h3>My best projects</h3></summary>
   
-  - [My Course Platform](https://course.jvictor.com.br) (React) <a href="https://github.com/jvictorjs/courses-platform"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [Course Platform](https://course.jvictor.com.br) (React) <a href="https://github.com/jvictorjs/courses-platform"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [TremdGol App](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free) (React Native) <a href="https://github.com/jvictorjs/tremdgol-app"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [TremdGol.com](https://tremdgol.com) (Vue) <a href="https://github.com/jvictorjs/tremdgol-vue"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [jvictor.com.br](https://jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/telegram-clone"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
