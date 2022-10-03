@@ -20,7 +20,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
 * 📱 I'm the creator and mainteiner of [TremdGol](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
-* 🎓 I have a Bachelor's degree in Conputer Science from the Federal University of Pernambuco (Brazil - 2012)
+* 🎓 I have a Bachelor's degree in Computer Science from the Federal University of Pernambuco (Brazil - 2012)
 * 📚 I'm currently learning GraphQL and Redux.
 <br><a href="http://skills.jvictor.com.br" target="_blank">more about me</a>
 
