@@ -6,33 +6,33 @@ https://github.com/anuraghazra/github-readme-stats
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 -->
-## Hi, I'm João Victor, software developer and YouTube creator.
+## Hi, I'm João Victor, software developer and content creator.
 
 
   <a href="https://www.youtube.com/user/jvwrCIN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30em" target="_blank"></a>
   <a href="https://twitter.com/jvictor_js" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30em"  target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ramos-6570a21b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" target="_blank"></a> 
   <a href="https://play.google.com/store/apps/developer?id=bolanarede.net.br" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
-  <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a>
   
 * 🗣 You can call me Jon (he/him)
-* 🤖 I love Telegram chatbots and I teach people how to create them with my YouTube step by step [tutorial videos](https://www.youtube.com/playlist?list=PLkESTH940G9Um3QdVFwp1YvqzumuVDEJW). 
+* 🤖 I love Telegram chatbots and I teach people how to create them with video lessons. [My course](https://courses.jvictor.com.br) is available for free.
 * 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
-* 📱 I'm the creator and mainteiner of [TremdGol Free](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
+* 📱 I'm the creator and mainteiner of [TremdGol](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
 * 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
 * 🎓 I have a Bachelor's degree in Conputer Science from the Federal University of Pernambuco (Brazil - 2012)
 * 📚 I'm currently learning GraphQL and Redux.
 <br><a href="http://skills.jvictor.com.br" target="_blank">more about me</a>
 
 <div>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a> 
-  <a href="https://reactnative.dev/"><img align="center" alt="React Native" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-  <a href="https://vuejs.org/"><img align="center" alt="Vue.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a>
-  <a href="https://vuetifyjs.com/en/"><img align="center" alt="Vuetify" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>   
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
-    <a href="https://developers.google.com/apps-script"><img align="center" alt="TypeScript" height="60" src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+    <a href="https://vuejs.org/"><img align="center" alt="Vue.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a>
+  <a href="https://vuetifyjs.com/en/"><img align="center" alt="Vuetify" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg"></a>
   <!--<a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> </a>-->
+  <a href="https://developers.google.com/apps-script"><img align="center" alt="Google-apps-script" height="60" src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png"></a>
+  <a href="https://reactnative.dev/"><img align="center" alt="React Native" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
   
 </div>
 <br>
@@ -138,11 +138,11 @@ Complete soccer statistics web site.
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorjs&layout=compact&langs_count=7&theme=dracula"/> 
 
 </div>
-
+<!--
 ##
 ###### *last update: may2022 | github presentation readme.md inspired by @rafaballerini's youtube video: https://www.youtube.com/watch?v=TsaLQAetPLU*
 ###### badges from https://github.com/Ileriayo/markdown-badges and https://devicon.dev/ 
- 
+ -->
 
 <!--
 
