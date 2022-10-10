@@ -44,7 +44,6 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   - [TremdGol.com](https://tremdgol.com) (Vue) <a href="https://github.com/jvictorjs/tremdgol-vue"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [jvictor.com.br](https://jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/telegram-clone"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [Portfolio](https://portfolio.jvictor.com.br) (Angular) <a href="https://github.com/jvictorjs/portfolio"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-  - [projects.jvictor.com.br](https://projects.jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/skills-word-cloud"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [skills.jvictor.com.br](https://skills.jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/skills-word-cloud"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [Bolanarede.net.br](https://bolanarede.net.br) (Angular) <a href="https://github.com/jvictorjs/bolasite"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   
