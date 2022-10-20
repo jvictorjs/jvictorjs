@@ -16,11 +16,11 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a>
   
 * 🗣 You can call me Jon (he/him)
-* 🤖 I love Telegram chatbots and I teach people how to create them with free video lessons. See [My course's site](https://courses.jvictor.com.br).
-* 💼 I'm currently working on frontend development using Vue and data manipulation with Pentaho Data Integration
+* 💼 I'm currently working on frontend development using <b>Vue</b> and data manipulation with <b>Pentaho Data Integration</b>.
+* 🙂 I'm <b>looking to collaborate on web and mobile development</b>, and also interested in automation with Google Apps Script. 
+* 🎓 I have a <b>Bachelor's degree in Computer Science</b> from the Federal University of Pernambuco (Brazil - 2012)
 * 📱 I'm the creator and mainteiner of [TremdGol](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free), a live soccer statistics app for Android. 
-* 🙂 I'm looking to collaborate on web and mobile development, and also interested in automation with Google Apps Script. 
-* 🎓 I have a Bachelor's degree in Computer Science from the Federal University of Pernambuco (Brazil - 2012)
+* 🤖 I love Telegram chatbots and I teach people how to create them with free video lessons. See [My course's site](https://courses.jvictor.com.br).
 * 📚 I'm currently learning GraphQL and Redux.
 <br><a href="http://jvictor.com.br" target="_blank">more about me</a>
 
@@ -42,11 +42,13 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   - [Course Platform](https://course.jvictor.com.br) (React) <a href="https://github.com/jvictorjs/courses-platform"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [TremdGol App](https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free) (React Native) <a href="https://github.com/jvictorjs/tremdgol-app"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [TremdGol.com](https://tremdgol.com) (Vue) <a href="https://github.com/jvictorjs/tremdgol-vue"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - [TremdGol backend](https://api.tremdgol.com) (Node.js) <a href="https://github.com/jvictorjs/tremdgol-backend"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+  - Medicine Reminder (Telegram Bot) <a href="https://github.com/jvictorjs/medicine-reminder-telegram-chatbot"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [jvictor.com.br](https://jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/telegram-clone"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [Portfolio](https://portfolio.jvictor.com.br) (Angular) <a href="https://github.com/jvictorjs/portfolio"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [skills.jvictor.com.br](https://skills.jvictor.com.br) (Vue) <a href="https://github.com/jvictorjs/skills-word-cloud"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
   - [Bolanarede.net.br](https://bolanarede.net.br) (Angular) <a href="https://github.com/jvictorjs/bolasite"><img align="center" alt="Vue.js" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-  
+
 </details> 
 
 <details> 
@@ -77,6 +79,77 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   > <div>  <img height="25" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" target="_blank"> <img height="25" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" target="_blank"> <img height="25" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank">       </div>
 </details>
 -->
+
+
+<!--
+
+<details> 
+  <summary><h3>👇 Best Projects </h3></summary>
+  
+  (this part of README.md is not ready to publish yet, still working on it)
+  
+## Best Projects
+
+* Tredmgol free
+###### Released: 2021
+Front-end   | Back-end   | 
+--------- | ------ |
+<a href="https://reactnative.dev/"><img align="center" alt="React Native" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
+          
+          
+A live soccer statistics android app. Available on <a href="https://play.google.com/store/apps/details?id=com.bolanarede.tremdgol_free" target="_blank"><img height="18" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
+
+
+* [bolanarede.net.br](http://bolanarede.net.br)
+###### Released: 2021 | [Github repository](https://github.com/jvictorjs/bolasite)
+Front-end   | Back-end   | 
+--------- | ------ |
+<a href="https://angular.io/"><img align="center" alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>  <a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
+
+I used Angular/TypeScript to built this live soccer statistics web site using the same source of data from TremdGol Free app. The same informations now available for desktop/mobile internet browsers.
+
+
+* [portfolio.jvictor.com.br](http://portfolio.jvictor.com.br)
+###### Released: 2021 | [Github repository](https://github.com/jvictorjs/portfolio)
+Front-end   | Back-end   | 
+--------- | ------ |
+<a href="https://angular.io/"><img align="center" alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>  <a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>  | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
+
+My fisrt portfolio web site.
+
+
+* [skills.jvictor.com.br](https://skills.jvictor.com.br)
+###### Released: 2022 | [Github repository](https://github.com/jvictorjs/skills)
+Front-end   | Back-end   | 
+--------- | ------ |
+<img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> <img  align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
+
+A simple web page to tell more about myself, tools and projects.
+
+
+* [quotes.jvictor.com.br](https://quotes.jvictor.com.br)
+###### Released: coming soon | [Github repository](https://github.com/jvictorjs/quotes)
+Front-end   | Back-end   | 
+--------- | ------ |
+<img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> <img  align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
+
+A telegram bot integrated with web page that provide random quotes from a cloud database.
+
+* Tremdgol web
+###### comming soon | [Github repository](https://github.com/jvictorjs/tremdgol)
+Front-end   | Back-end   | 
+--------- | ------ |
+<img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" /> <img align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /> <img  align="center" alt="js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | <a href="https://digitalocean.com/"><img align="center" alt="DigitalOcean" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"></a> <a href="https://ubuntu.com/"><img align="center" alt="Ubuntu" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"></a> <a href="https://https://nodejs.org/en/"><img align="center" alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a> |
+
+Complete soccer statistics web site.
+
+
+ 
+  </details>
+  -->
+  <!-- -  I have others soccer statistics projects released that I'm working to swith to public repositories. -->
+
+
 
   
 ## 
