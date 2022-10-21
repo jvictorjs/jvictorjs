@@ -15,7 +15,7 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
   <a href="https://play.google.com/store/apps/developer?id=bolanarede.net.br" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" height="30em"  target="_blank"></a> 
   <a href="https://stackoverflow.com/users/16280917/" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="30em"  target="_blank"></a>
   
-* 🗣 You can call me Jon (he/him)
+* 🗣 You can call me John (he/him)
 * 💼 I'm currently working on frontend development using <b>Vue</b> and data manipulation with <b>Pentaho Data Integration</b>.
 * 🙂 I'm <b>looking to collaborate on web and mobile development</b>, and also interested in automation with Google Apps Script. 
 * 🎓 I have a <b>Bachelor's degree in Computer Science</b> from the Federal University of Pernambuco (Brazil - 2012)
